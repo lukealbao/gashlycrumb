@@ -1,16 +1,19 @@
 {
   "name": "gashlycrumb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gashlycrumb Tinies, line by line",
   "repository": "https://github.com/lukealbao/gashlycrumb",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
   },
-  "keywords": ["Gorey", "Novelty"],
+  "keywords": [
+    "Gorey",
+    "Novelty"
+  ],
   "author": {
     "name": "Luke Albao",
-    "email": "lukealbao@gmail.com"    
+    "email": "lukealbao@gmail.com"
   },
   "license": "MIT"
 }
