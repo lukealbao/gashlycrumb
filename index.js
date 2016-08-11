@@ -16,7 +16,7 @@ function lineFactory () {
 
   return {
     next: closure()
-  }
+  };
 }
 
 function handlerFactory () {
